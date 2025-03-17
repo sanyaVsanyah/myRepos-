@@ -1,1 +1,3 @@
-This is a new master branch
+HEAD
+This is a new master branch, I solved this problem!!
+conflict
